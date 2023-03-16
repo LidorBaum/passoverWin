@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/passoverwin/static/css/main.073c9b0a.css",
+    "main.js": "/passoverwin/static/js/main.6fe0f65d.js",
+    "static/js/787.007cba27.chunk.js": "/passoverwin/static/js/787.007cba27.chunk.js",
+    "static/media/logo.svg": "/passoverwin/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/passoverwin/index.html",
+    "main.073c9b0a.css.map": "/passoverwin/static/css/main.073c9b0a.css.map",
+    "main.6fe0f65d.js.map": "/passoverwin/static/js/main.6fe0f65d.js.map",
+    "787.007cba27.chunk.js.map": "/passoverwin/static/js/787.007cba27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.6fe0f65d.js"
+  ]
+}
